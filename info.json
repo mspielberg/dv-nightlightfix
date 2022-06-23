@@ -6,6 +6,6 @@
   "LoadAfter": [],
   "AssemblyName": "NightLightFix.dll",
   "EntryMethod": "DvMod.NightLightFix.Main.Load",
-  "HomePage": "",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/462",
   "Repository": "https://raw.githubusercontent.com/mspielberg/dv-nightlightfix/master/resources/repository.json"
 }
