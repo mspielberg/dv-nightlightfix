@@ -24,6 +24,8 @@ namespace DvMod.NightLightFix
 
         private static void OnInteriorLoaded(GameObject loadedInterior)
         {
+            if (loadedInterior == null)
+                return;
             foreach (var comp in loadedInterior.transform.GetComponentsInChildren<ReflectionProbe>())
                 comp.gameObject.SetActive(false);
         }
