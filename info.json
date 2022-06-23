@@ -1,0 +1,11 @@
+{
+  "Id": "NightLightFix",
+  "DisplayName": "Night Light Fix",
+  "Author": "Zeibach",
+  "Version": "0.1.0",
+  "LoadAfter": [],
+  "AssemblyName": "NightLightFix.dll",
+  "EntryMethod": "DvMod.NightLightFix.Main.Load",
+  "HomePage": "",
+  "Repository": "https://raw.githubusercontent.com/mspielberg/dv-nightlightfix/master/resources/repository.json"
+}
